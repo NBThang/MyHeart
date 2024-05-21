@@ -1,7 +1,6 @@
-/* Notify.js - http://notifyjs.com/ Copyright (c) 2015 MIT */
+
+alert("Cho Cậu Trái Tym Nè :>>")
 (function (factory) {
-	// UMD start
-	// https://github.com/umdjs/umd/blob/master/jqueryPluginCommonjs.js
 	if (typeof define === 'function' && define.amd) {
 		// AMD. Register as an anonymous module.
 		define(['jquery'], factory);
